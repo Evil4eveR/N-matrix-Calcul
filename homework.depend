@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1585168836 source:c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\main.cpp
+	"matrix.h"
+	"matrix.cpp"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<math.h>
+	"menuN.h"
+
+1584967443 c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\matrix.h
+	<string>
+	<vector>
+
+1585506125 c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<stdlib.h>
+
+1584293108 source:c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\meu.c
+
+1584963780 source:c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\menu.cpp
+	<iostream>
+	<cstdlib>
+	"menu.h"
+
+1584963778 c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\menu.h
+	<vector>
+	"matrix.h"
+
+1585168836 c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\menun.h
+	<vector>
+	"matrix.h"
+
+1585168836 source:c:\users\evil4ever\desktop\4th semester\oop\assign1\homework\menun.cpp
+	<iostream>
+	<cstdlib>
+	"menuN.h"
+
+1593471433 source:c:\users\evil4ever\downloads\firstassignment\menun.cpp
+	<iostream>
+	<cstdlib>
+	"menuN.h"
+
+1585172438 c:\users\evil4ever\downloads\firstassignment\menun.h
+	<vector>
+	"matrix.h"
+
+1593487885 c:\users\evil4ever\downloads\firstassignment\matrix.h
+	<string>
+	<vector>
+
+1593494570 source:c:\users\evil4ever\downloads\firstassignment\main.cpp
+	"matrix.h"
+	"matrix.cpp"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<math.h>
+	"menuN.h"
+	"catch.hpp"
+
+1593493720 c:\users\evil4ever\downloads\firstassignment\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<stdlib.h>
+
+1593472094 c:\users\evil4ever\downloads\firstassignment\catch.hpp
+	<TargetConditionals.h>
+	<iosfwd>
+	<string>
+	<cstdint>
+	<vector>
+	<memory>
+	<cstddef>
+	<string>
+	<iosfwd>
+	<sstream>
+	<vector>
+	<cstddef>
+	<type_traits>
+	<string>
+	<utility>
+	<tuple>
+	<ctime>
+	<ratio>
+	<chrono>
+	<ostream>
+	<string>
+	<sstream>
+	<string>
+	<signal.h>
+	<cstddef>
+	<string>
+	<cstdint>
+	<string>
+	<cstdint>
+	<string>
+	<string>
+	<memory>
+	<exception>
+	<string>
+	<vector>
+	<sstream>
+	<stdexcept>
+	<type_traits>
+	<string>
+	<iosfwd>
+	<string>
+	<vector>
+	<string>
+	<string>
+	<vector>
+	<memory>
+	<string>
+	<string>
+	<vector>
+	<memory>
+	<string>
+	<iosfwd>
+	<string>
+	<vector>
+	<memory>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<memory>
+	<vector>
+	<string>
+	<string>
+	<string>
+	<iosfwd>
+	<map>
+	<set>
+	<memory>
+	<algorithm>
+	<cstring>
+	<cfloat>
+	<cstdio>
+	<assert.h>
+	<memory>
+	<string>
+	<vector>
+	<memory>
+	<cmath>
+	<limits>
+	<memory>
+	<cassert>
+	<cassert>
+	<ostream>
+	<sstream>
+	<vector>
+	<memory>
+	<set>
+	<algorithm>
+	<fstream>
+	<ctime>
+	<cstring>
+	<ostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<string>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<fstream>
+	<string>
+	<cerrno>
+	<vector>
+	<string>
+	<memory>
+	<string>
+	<signal.h>
+	<signal.h>
+	<crtdbg.h>
+	<set>
+	<limits>
+	<algorithm>
+	<iomanip>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<set>
+	<algorithm>
+	<ios>
+	<map>
+	<string>
+	<map>
+	<vector>
+	<exception>
+	<string>
+	<cassert>
+	<algorithm>
+	<memory>
+	<iosfwd>
+	<cstdlib>
+	<iomanip>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<ostream>
+	<cstring>
+	<cctype>
+	<ostream>
+	<cassert>
+	<cstring>
+	<cctype>
+	<exception>
+	<algorithm>
+	<sstream>
+	<algorithm>
+	<assert.h>
+	<stdexcept>
+	<memory>
+	<algorithm>
+	<string>
+	<vector>
+	<memory>
+	<chrono>
+	<iomanip>
+	<ostream>
+	<sstream>
+	<vector>
+	<iomanip>
+	<cstring>
+	<cfloat>
+	<cstdio>
+	<assert.h>
+	<memory>
+	<cfloat>
+	<cstdio>
+	<assert.h>
+	<ctime>
+	<algorithm>
+
